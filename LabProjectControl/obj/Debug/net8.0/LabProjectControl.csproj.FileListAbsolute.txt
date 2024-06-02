@@ -1,0 +1,14 @@
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\bin\Debug\net8.0\LabProjectControl.exe
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\bin\Debug\net8.0\LabProjectControl.deps.json
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\bin\Debug\net8.0\LabProjectControl.runtimeconfig.json
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\bin\Debug\net8.0\LabProjectControl.dll
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\bin\Debug\net8.0\LabProjectControl.pdb
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\LabProjectControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\LabProjectControl.AssemblyInfoInputs.cache
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\LabProjectControl.AssemblyInfo.cs
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\LabProjectControl.csproj.CoreCompileInputs.cache
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\LabProjectControl.dll
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\refint\LabProjectControl.dll
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\LabProjectControl.pdb
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\LabProjectControl.genruntimeconfig.cache
+D:\C#Practice\Lab01\05(Control)\LabProjectControl\obj\Debug\net8.0\ref\LabProjectControl.dll
