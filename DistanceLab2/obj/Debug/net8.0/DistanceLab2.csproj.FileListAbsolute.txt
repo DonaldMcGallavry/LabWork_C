@@ -1,0 +1,14 @@
+D:\C#Practice\Lab02\Control\DistanceLab2\bin\Debug\net8.0\DistanceLab2.exe
+D:\C#Practice\Lab02\Control\DistanceLab2\bin\Debug\net8.0\DistanceLab2.deps.json
+D:\C#Practice\Lab02\Control\DistanceLab2\bin\Debug\net8.0\DistanceLab2.runtimeconfig.json
+D:\C#Practice\Lab02\Control\DistanceLab2\bin\Debug\net8.0\DistanceLab2.dll
+D:\C#Practice\Lab02\Control\DistanceLab2\bin\Debug\net8.0\DistanceLab2.pdb
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\DistanceLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\DistanceLab2.AssemblyInfoInputs.cache
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\DistanceLab2.AssemblyInfo.cs
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\DistanceLab2.csproj.CoreCompileInputs.cache
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\DistanceLab2.dll
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\refint\DistanceLab2.dll
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\DistanceLab2.pdb
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\DistanceLab2.genruntimeconfig.cache
+D:\C#Practice\Lab02\Control\DistanceLab2\obj\Debug\net8.0\ref\DistanceLab2.dll

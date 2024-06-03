@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DistanceLab2/1.0.0": {
+        "runtime": {
+          "DistanceLab2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DistanceLab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
