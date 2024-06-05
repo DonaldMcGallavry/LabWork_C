@@ -1,0 +1,14 @@
+D:\C#Practice\Lab03\Control\Target\bin\Debug\net8.0\Target.exe
+D:\C#Practice\Lab03\Control\Target\bin\Debug\net8.0\Target.deps.json
+D:\C#Practice\Lab03\Control\Target\bin\Debug\net8.0\Target.runtimeconfig.json
+D:\C#Practice\Lab03\Control\Target\bin\Debug\net8.0\Target.dll
+D:\C#Practice\Lab03\Control\Target\bin\Debug\net8.0\Target.pdb
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\Target.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\Target.AssemblyInfoInputs.cache
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\Target.AssemblyInfo.cs
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\Target.csproj.CoreCompileInputs.cache
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\Target.dll
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\refint\Target.dll
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\Target.pdb
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\Target.genruntimeconfig.cache
+D:\C#Practice\Lab03\Control\Target\obj\Debug\net8.0\ref\Target.dll
