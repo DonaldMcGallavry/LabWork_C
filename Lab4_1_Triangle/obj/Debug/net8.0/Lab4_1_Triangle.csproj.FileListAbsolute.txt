@@ -1,0 +1,14 @@
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\bin\Debug\net8.0\Lab4_1_Triangle.exe
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\bin\Debug\net8.0\Lab4_1_Triangle.deps.json
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\bin\Debug\net8.0\Lab4_1_Triangle.runtimeconfig.json
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\bin\Debug\net8.0\Lab4_1_Triangle.dll
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\bin\Debug\net8.0\Lab4_1_Triangle.pdb
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\Lab4_1_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\Lab4_1_Triangle.AssemblyInfoInputs.cache
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\Lab4_1_Triangle.AssemblyInfo.cs
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\Lab4_1_Triangle.csproj.CoreCompileInputs.cache
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\Lab4_1_Triangle.dll
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\refint\Lab4_1_Triangle.dll
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\Lab4_1_Triangle.pdb
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\Lab4_1_Triangle.genruntimeconfig.cache
+D:\C#Practice\Lab04\3\Lab4_1_Triangle\obj\Debug\net8.0\ref\Lab4_1_Triangle.dll
