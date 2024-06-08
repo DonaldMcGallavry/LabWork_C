@@ -1,0 +1,14 @@
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\bin\Debug\net8.0\Lab4_2_Discriminant.exe
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\bin\Debug\net8.0\Lab4_2_Discriminant.deps.json
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\bin\Debug\net8.0\Lab4_2_Discriminant.runtimeconfig.json
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\bin\Debug\net8.0\Lab4_2_Discriminant.dll
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\bin\Debug\net8.0\Lab4_2_Discriminant.pdb
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\Lab4_2_Discriminant.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\Lab4_2_Discriminant.AssemblyInfoInputs.cache
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\Lab4_2_Discriminant.AssemblyInfo.cs
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\Lab4_2_Discriminant.csproj.CoreCompileInputs.cache
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\Lab4_2_Discriminant.dll
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\refint\Lab4_2_Discriminant.dll
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\Lab4_2_Discriminant.pdb
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\Lab4_2_Discriminant.genruntimeconfig.cache
+D:\C#Practice\Lab04\3\Lab4_2_Discriminant\obj\Debug\net8.0\ref\Lab4_2_Discriminant.dll
